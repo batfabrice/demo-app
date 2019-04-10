@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="840546e4-72ec-4011-bd6c-973c8eee800a" name="Default Changelist" comment="" />
+    <list default="true" id="840546e4-72ec-4011-bd6c-973c8eee800a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/home.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/home.html.twig" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,38 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Controller/PagesController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/pages/home.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/pages/about.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/pages/help.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -97,9 +73,9 @@
         <option value="$PROJECT_DIR$/templates/pages/index.html.twig" />
         <option value="$PROJECT_DIR$/src/Controller/HomeController.php" />
         <option value="$PROJECT_DIR$/src/Controller/PagesController.php" />
-        <option value="$PROJECT_DIR$/templates/pages/home.html.twig" />
         <option value="$PROJECT_DIR$/templates/pages/about.html.twig" />
         <option value="$PROJECT_DIR$/templates/pages/help.html.twig" />
+        <option value="$PROJECT_DIR$/templates/pages/home.html.twig" />
       </list>
     </option>
   </component>
@@ -221,275 +197,6 @@
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectUserFactors">
-    <factor id="binaryFeature:liftShorter">
-      <dailyData date="09-04-2019">
-        <observation name="false" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:liftShorterClasses">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:middleMatching">
-      <dailyData date="09-04-2019">
-        <observation name="false" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:nonGeneric">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:prox_inResolveScope">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="3,0" />
-        <observation name="false" value="2,0" />
-        <observation name="true" value="1,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:prox_openedInEditor">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="3,0" />
-        <observation name="false" value="2,0" />
-        <observation name="true" value="1,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:prox_sameDirectory">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="3,0" />
-        <observation name="false" value="2,0" />
-        <observation name="true" value="1,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:prox_sameLogicalRoot">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="3,0" />
-        <observation name="false" value="2,0" />
-        <observation name="true" value="1,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:prox_sdkOrLibrary">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="3,0" />
-        <observation name="false" value="3,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:templates">
-      <dailyData date="09-04-2019">
-        <observation name="false" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="categoricalFeature:accessible">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="categoricalFeature:expectedType">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="categoricalFeature:kind">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="categoricalFeature:methodsChains">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="categoricalFeature:prox_javaInheritance">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="categoricalFeature:prox_referenceList">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="categoricalFeature:recursion">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="completionFinishedType">
-      <dailyData date="09-04-2019">
-        <observation name="cancelled" value="91,0" />
-        <observation name="explicitSelect" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="completionType">
-      <dailyData date="09-04-2019">
-        <observation name="BASIC" value="9,0" />
-      </dailyData>
-    </factor>
-    <factor id="completionUsage">
-      <dailyData date="09-04-2019">
-        <observation name="count" value="97,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:explicitProximity">
-      <dailyData date="09-04-2019">
-        <observation name="average" value="0,0" />
-        <observation name="count" value="11,0" />
-        <observation name="max" value="0,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="0,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:grouping">
-      <dailyData date="09-04-2019">
-        <observation name="average" value="0,0" />
-        <observation name="count" value="11,0" />
-        <observation name="max" value="0,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="0,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:nameEnd">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:position">
-      <dailyData date="09-04-2019">
-        <observation name="average" value="0,272727" />
-        <observation name="count" value="11,0" />
-        <observation name="max" value="3,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="0,384195" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:prefix">
-      <dailyData date="09-04-2019">
-        <observation name="average" value="-915,363636" />
-        <observation name="count" value="11,0" />
-        <observation name="max" value="0,0" />
-        <observation name="min" value="-1152,0" />
-        <observation name="variance" value="84741,754288" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:priority">
-      <dailyData date="09-04-2019">
-        <observation name="average" value="0,0" />
-        <observation name="count" value="11,0" />
-        <observation name="max" value="0,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="0,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:prox_explicitlyImported">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:prox_knownElement">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:prox_sameModule">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="3,0" />
-        <observation name="average" value="0,8" />
-        <observation name="count" value="5,0" />
-        <observation name="max" value="2,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="0,337778" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:prox_samePsiMember">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:query_length">
-      <dailyData date="09-04-2019">
-        <observation name="average" value="0,0" />
-        <observation name="count" value="11,0" />
-        <observation name="max" value="0,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="0,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:result_length">
-      <dailyData date="09-04-2019">
-        <observation name="average" value="6,181818" />
-        <observation name="count" value="11,0" />
-        <observation name="max" value="8,0" />
-        <observation name="min" value="4,0" />
-        <observation name="variance" value="0,89738" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:sameWords">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:shorter">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:simple">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:sorter">
-      <dailyData date="09-04-2019">
-        <observation name="average" value="1,0" />
-        <observation name="count" value="11,0" />
-        <observation name="max" value="1,0" />
-        <observation name="min" value="1,0" />
-        <observation name="variance" value="0,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:statics">
-      <dailyData date="09-04-2019">
-        <observation name="UNDEFINED" value="6,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:stats">
-      <dailyData date="09-04-2019">
-        <observation name="average" value="9996,0" />
-        <observation name="count" value="11,0" />
-        <observation name="max" value="10000,0" />
-        <observation name="min" value="9990,0" />
-        <observation name="variance" value="9,794338" />
-      </dailyData>
-    </factor>
-    <factor id="itemPosition">
-      <dailyData date="09-04-2019">
-        <observation name="0" value="5,0" />
-        <observation name="3" value="1,0" />
-      </dailyData>
-    </factor>
-    <factor id="mnemonicsUsage">
-      <dailyData date="09-04-2019">
-        <observation name="total" value="5,0" />
-        <observation name="withMnemonics" value="0,0" />
-      </dailyData>
-    </factor>
-    <factor id="prefixLength">
-      <dailyData date="09-04-2019">
-        <observation name="0" value="1,0" />
-        <observation name="2" value="2,0" />
-        <observation name="3" value="2,0" />
-        <observation name="8" value="1,0" />
-      </dailyData>
-    </factor>
-    <factor id="timeBetweenTyping">
-      <dailyData date="09-04-2019">
-        <observation name="average" value="378,111111" />
-        <observation name="count" value="9,0" />
-      </dailyData>
-    </factor>
-  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -564,10 +271,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6507000" />
+    <option name="totallyTimeSpent" value="6787000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="840" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -608,20 +316,8 @@
     <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controller/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/index.html.twig" />
+    <entry file="file://$PROJECT_DIR$/src/Controller/HomeController.php" />
     <entry file="file://$PROJECT_DIR$/src/Controller/PagesController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -632,7 +328,7 @@
     <entry file="file://$PROJECT_DIR$/templates/pages/home.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
